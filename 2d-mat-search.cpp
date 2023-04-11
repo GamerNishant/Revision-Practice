@@ -3,7 +3,7 @@
 using namespace std;
 
 // staircase binary search
-
+// this is not log(m*n)
 int main()
 {
     int t;
